@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700);
+body {
+  font-family: 'Roboto Slab', serif; }
+
+.editor-post-title__block .editor-post-title__input {
+  font-family: 'Roboto Slab', serif; }
+
+.block-editor-block-list__layout {
+  background-color: pink; }
+
+.wp-block {
+  max-width: 900px; }
+
+.wp-block[data-align="wide"] {
+  max-width: 1280px; }
+
+.wp-block[data-align="full"] {
+  max-width: none; }
+
+
+/*# sourceMappingURL=editor.css.map*/

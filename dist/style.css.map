@@ -1,0 +1,1 @@
+{"version":3,"file":"style.css","sources":["webpack:///./src/blocks/tophat-button-block/style.scss"],"sourcesContent":[".wp-block-tophat-blocks-tophat-button-block {\n  background-color: #524d5b;\n  color: #fff;\n  border-radius: 5px;\n  padding: 20px; }\n"],"mappings":"AAAA;AACA;AACA;AACA;AACA;;","sourceRoot":""}
